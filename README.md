@@ -1,4 +1,4 @@
-# Bank-Marketing-Data-Set-Classification
+# Bank-Marketing-Data-Set-Analysis
 
 # Data Set Information
 
